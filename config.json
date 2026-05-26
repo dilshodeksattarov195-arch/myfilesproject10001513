@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsarse",
+        "uuid": 11128115,
+        "checksum": "vfcxit"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
